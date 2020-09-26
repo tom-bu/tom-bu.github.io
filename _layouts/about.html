@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<a style="font-size:30px">[Page still under construction]</a>
+<!-- <a style="font-size:30px">[Page still under construction]</a> -->
 <div class="post">
 
   <header class="post-header">
@@ -42,15 +42,13 @@ layout: default
     {% endif %}
 
     {% if page.social %}
-    <div class="social">
-      {% include social.html %}
-      <div class="contact-note">{{ site.contact_note }}</div>
-    </div>
+    
     {% endif %}
   </article>
-  <br>
-  <br>
-  <br>
-   {% include publications.html %}
+    {% include publications.html %}
+<!-- <div class="social">
+    {% include social.html %}
+    <div class="contact-note">{{ site.contact_note }}</div>
+</div> -->
 
 </div>
