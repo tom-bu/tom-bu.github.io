@@ -9,7 +9,7 @@ pre_prints:
     venue: In submission, 2020
     comments: 
     video_url: 
-    page_url: 
+    page_url: /projects/contextegopose
     paper_url: 
     github_url: 
     image: projects/contextegopose.gif
@@ -36,7 +36,7 @@ publications:
       venue: Fifteenth Asian Conference on Computer Vision (ACCV), 2020
       comments: Oral Presentation
       video_url: "https://www.youtube.com/watch?v=3iGEgZpDYZ8"
-      page_url: 
+      page_url: /projects/meva
       paper_url: https://arxiv.org/abs/2008.03789
       github_url: 
       image: projects/meva.gif

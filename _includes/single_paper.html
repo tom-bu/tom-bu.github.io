@@ -1,9 +1,9 @@
 <div class="paper-entry">
     {% if paper.image %}
-    <a href="{{ paper.url }}" target="_blank"><img src="{{ paper.image | prepend: '/assets/img/' | relative_url }}" /></a>
+    <a href="{{ paper.paper_url }}" target="_blank"><img src="{{ paper.image | prepend: '/assets/img/' | relative_url }}" /></a>
     {% endif %}
     <ul class="paper-info">
-        <li> <b><a style="font-size:20px"  >{{ paper.title }}</a></b></li>
+        <li> <b style="font-size:20px"  >{{ paper.title }}</b></li>
         <li>
         {% assign num_authors = paper.authors | size %}
         {% for idx in (0..num_authors)%}
@@ -26,7 +26,7 @@
             <a style="color:blue" href="{{ paper.paper_url }}">[Paper]</a>
         {% endif %}
         {%if paper.page_url%}
-            <a style="color:blue" href="{{ paper.page_url }}">[Porject_page]</a>
+            <a style="color:blue" href="{{ paper.page_url }}">[Porject]</a>
         {% endif %}
         {%if paper.github_url%}
             <a style="color:blue" href="{{ paper.github_url }}">[Code]</a>

@@ -36,19 +36,32 @@ layout: default
         </div>
         {% endif %}
     </div>
-
-    {% if page.news %}
-      {% include news.html %}
-    {% endif %}
-
-    {% if page.social %}
     
-    {% endif %}
-  </article>
+    <hr>
+    {% include education.html %}
+
+    <!-- <hr> -->
+    <!-- {% if page.news %}
+      {% include news.html %}
+    {% endif %} -->
+
+    <hr>
     {% include publications.html %}
+    <hr>
+    {% include industry.html %}
+    <hr>
+    {% include teaching.html %}
+
+  </article>
+
+  <br>
+  <br>
+  <br>
+    <p>---</p>
 <!-- <div class="social">
     {% include social.html %}
     <div class="contact-note">{{ site.contact_note }}</div>
 </div> -->
-
+<hr>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Zf_04VCHrYFKXv38kF31i0xq987SkRQcAnHdE-EKoEY&cl=ffffff&w=a"></script>
 </div>

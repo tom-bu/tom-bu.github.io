@@ -53,6 +53,7 @@ body.sticky-bottom-footer {
 }
 
 .paper-entry {
+    margin-top: 30px;
     display: block;
     float: left;
     height: 100%;
@@ -63,8 +64,12 @@ body.sticky-bottom-footer {
     img {
         float: left;
         object-fit: cover;
-        height: 150px;
-        width: 200px;
+        height: auto; 
+        width: auto; 
+        max-width: 200px; 
+        max-height: 150px;
+        // height: 150px;
+        // width: 200px;
         margin-right: 10px;
     }
     ul.paper-info {
@@ -98,8 +103,66 @@ body.sticky-bottom-footer {
 //     width: 33%;
 // }
 
+ 
+.list-entry {
+    margin-top: 15px;
+    display: block;
+    float: left;
+    height: 100%;
+    width: 100%;
+    @media screen and (min-width: 676px) {
+        height: 100%;
+    }
+    img {
+        float: left;
+        object-fit: cover;
+        height: auto; 
+        width: auto; 
+        max-width: 120px; 
+        max-height: 120px;
+        margin-right: 20px;
+    }
+    ul.item-info {
+        display: block;
+        float: left;
+        list-style-type: none;
+        padding-left: 0;
+        width: 60%;
+        // width: -webkit-calc(100% - 130px);
+        // width: calc(100% - 130px);
+        min-width: 210px;
+        a {
+            color: black;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+        span {
+            font-weight: 400;
+        }
+    }
+}
+
+.school_icon{
+        border-radius: 20%;
+        float: left;
+        object-fit: cover;
+        height: 100px;
+        width: 100px;
+        margin-right: 10px;
+}
+
+.content {
+    margin-top: 30px;
+    padding-top: 20px;
+    h2 {
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+}
+
 .news {
-    border-top: 1px solid $grey-color-light;
     margin-top: 30px;
     padding-top: 20px;
     h2 {
