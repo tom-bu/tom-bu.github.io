@@ -1,77 +1,57 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: MEVA
+description: "3D Human Motion Estimation via Motion Compression and Refinement"
+img: /assets/img/projects/meva.gif
 importance: 1
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<h3 style="text-align: center;font-size:30px"> 3D Human Motion Estimation via Motion Compression and Refinement </h3>
+<h4 style="text-align: center;color:DodgerBlue"> Zhengyi Luo, S. Alireza Golestaneh, Kris M. Kitani  </h4>
+<h5 style="text-align: center;"> ACCV 2020 </h5>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/meva_teaser.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
+<!-- <div class="caption">
     This image can also have a caption. It's like magic.
+</div> -->
+<br>
+
+We develop a technique for generating smooth and accurate 3D human pose and motion estimates from RGB video sequences. Our technique, which we call Motion Estimation via Variational Autoencoder (MEVA), decomposes a temporal sequence of human motion into a smooth motion representation using auto-encoder-based motion compression and a residual representation learned through motion refinement. This two-step encoding of human motion captures human motion in two stages: a general human motions estimation step that captures the coarse overall motion, and a residual estimation that adds back person-specific motion details. Experiments show that our method produces both smooth and accurate 3D human pose and motion estimates.
+
+<br>
+<h3 style="color:darkblue">Demo</h3>
+
+<div class="embed-container">
+<center>
+  <iframe
+      src="https://www.youtube.com/watch?v=3iGEgZpDYZ8"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+  </center>
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+<br>
+<br>
+<br>
+<h3 style="color:darkblue">Paper and Code</h3>
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+<div>
+{% for paper in site.data.publications.publications %}
+    {% if paper.title ==  "3D Human Motion Estimation via Motion Compression and Refinement" %}
+        {% include single_paper.html %}
+    {% endif %}
+{% endfor %}
 </div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
+<br>
+<br>
+<br>
+<p> -- </p>
