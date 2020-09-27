@@ -8,7 +8,7 @@ importance: 1
 
 <h3 style="text-align: center;font-size:30px"> 3D Human Motion Estimation via Motion Compression and Refinement </h3>
 <h4 style="text-align: center;color:DodgerBlue"> Zhengyi Luo, S. Alireza Golestaneh, Kris M. Kitani  </h4>
-<h5 style="text-align: center;"> ACCV 2020 </h5>
+<h5 style="text-align: center;"> ACCV 2020, Oral Presentation </h5>
 
 
 <div class="row">
