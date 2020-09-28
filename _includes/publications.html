@@ -1,14 +1,14 @@
 <div class="content" >
-    <h2> Publications <h2>
-    <h3>Pre-prints</h3>
-    {% for paper in site.data.publications.pre_prints %}
-        {% include single_paper.html %}
-    {% endfor %}
-    
-    
-    <h3>Publications</h3>
-    {% for paper in site.data.publications.publications %}
-        {% include single_paper.html %}
-    {% endfor %}
-    
+<h2> Publications <h2>
+<h3>Pre-prints</h3>
+{% for paper in site.data.publications.pre_prints %}
+    {% include single_paper.html %}
+{% endfor %}
+
+
+<h3>Publications</h3>
+{% for paper in site.data.publications.publications %}
+    {% include single_paper.html %}
+{% endfor %}
 <p>---</p>
+
