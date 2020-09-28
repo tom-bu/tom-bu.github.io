@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: zen_grad2.jpg
   address: >
     <p>Pittsburgh PA, 15213</p>
 
@@ -30,6 +30,8 @@ My research interest stems from my love for AR/VR, and lies at the intersection 
 <a  style="color:DodgerBlue" href="https://scholar.google.com/citations?user=lHPTxGsAAAAJ&hl=en">Google Scholar</a>
 /
 <a  style="color:DodgerBlue" href="https://github.com/ZhengyiLuo">Github</a>
+/
+<a  style="color:DodgerBlue" href="https://www.linkedin.com/in/zhengyi-zen-luo-726156105/">Linkedin</a>
 /
 <a  style="color:DodgerBlue" href="https://twitter.com/zhengyiluo?lang=en">Twitter</a>
 /

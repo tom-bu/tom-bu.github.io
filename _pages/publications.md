@@ -8,4 +8,4 @@ nav: true
 ---
 {% include publications.html %}
 
-</div>
+

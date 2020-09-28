@@ -1,8 +1,8 @@
 pre_prints:
   - title: Kinematics-Guided Reinforcement Learning for Object-Aware 3D Ego-Pose Estimation
     authors: 
-      - Zhengyi Luo
-      - Ryo hachiuma
+      - Zhengyi Luo*
+      - Ryo hachiuma*
       - Ye Yuan
       - Shun Iwase
       - Kris M. Kitani
@@ -12,6 +12,7 @@ pre_prints:
     page_url: /projects/contextegopose
     paper_url: 
     github_url: 
+    comments: "* indicates equal contribution"
     image: projects/contextegopose.gif
   - title: Learning Shape Representations for Clothing Variations in Person Re-Identification
     authors: 
@@ -31,7 +32,7 @@ publications:
     - title: "3D Human Motion Estimation via Motion Compression and Refinement"
       authors: 
         - Zhengyi Luo
-        - S. Alireza Golestaneh,
+        - S. Alireza Golestaneh
         - Kris M. Kitani
       venue: Fifteenth Asian Conference on Computer Vision (ACCV), 2020
       comments: Oral Presentation
@@ -76,7 +77,7 @@ publications:
         - Austin Small
         - Liam Dugan
         - Stephen Lane
-      venue: The Eleventh International Conference on Machine Vision (ICMV), 2018}
+      venue: The Eleventh International Conference on Machine Vision (ICMV), 2018
       comments: 
       page_url: 
       paper_url: https://arxiv.org/abs/1810.01069
