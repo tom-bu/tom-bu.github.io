@@ -4,6 +4,7 @@ title: MEVA
 description: "3D Human Motion Estimation via Motion Compression and Refinement"
 img: /assets/img/projects/meva.gif
 importance: 1
+type: research
 ---
 
 <h3 style="text-align: center;font-size:30px"> 3D Human Motion Estimation via Motion Compression and Refinement </h3>
