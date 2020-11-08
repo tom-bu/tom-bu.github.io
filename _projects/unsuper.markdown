@@ -2,7 +2,7 @@
 layout: page
 title: Unsupervised Learning
 description: "Unsupervised Visual Learning: An Empirical Study"
-img: 
+img: /assets/img/projects/unsuper/poster.png
 importance: 2
 type: class
 ---

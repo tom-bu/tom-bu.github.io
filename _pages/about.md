@@ -16,9 +16,11 @@ social: true
 
 
 
-Hi there! My name is Zhengyi Luo (my friends call me Zen) and I am a second year master's student at Carnegie Mellon University's Robotics Institute, advised by Prof.[**Kris Kitani**](http://www.cs.cmu.edu/~kkitani/). I earned my Bachelors's degree from University of Pennsylvania in 2019, where I worked with Prof.[**Kostas Daniilidis**](https://www.cis.upenn.edu/~kostas/). 
+Hi there! My name is Zhengyi Luo (my friends call me Zen) and I am a second year master's student at Carnegie Mellon University's Robotics Institute, advised by Prof. <a style="color:DodgerBlue" href="http://www.cs.cmu.edu/~kkitani/">Kris Kitani</a>. I earned my Bachelors's degree from University of Pennsylvania in 2019, where I worked with Prof. <a style="color:DodgerBlue" href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis</a>.
 
-My research interest stems from my love for AR/VR, and lies at the intersection of computer vision and computer graphics. Currently, I am working on topcis including human motion prediction, human motion generation, object motion estimation, etc. 
+My research interest stems from my love for AR/VR, and lies at the intersection of computer vision and computer graphics. Currently, I am working on topcis including human pose estimation, human-object interaction estimation, human motion generation etc.
+
+I am applying for Ph.D. for Fall 2021! If you find my profile interesting, please feel free to reach out to me at zluo2 [at] cs.cmu.edu! Or you can leave your email here: <a style="color:DodgerBlue" href="https://forms.gle/5kCgzrNSBZSbufPr7">link</a> and I can reach out to you! 
 
 <div >
 

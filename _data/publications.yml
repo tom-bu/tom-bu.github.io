@@ -1,34 +1,21 @@
 pre_prints:
-  - title: Kinematics-Guided Reinforcement Learning for Object-Aware 3D Ego-Pose Estimation
-    authors: 
-      - Zhengyi Luo*
-      - Ryo hachiuma*
-      - Ye Yuan
-      - Shun Iwase
-      - Kris M. Kitani
-    venue: In submission, 2020
-    comments: 
-    video_url: 
-    page_url: /projects/contextegopose
-    paper_url: 
-    github_url: 
-    comments: "* indicates equal contribution"
-    image: projects/contextegopose.gif
-  - title: Learning Shape Representations for Clothing Variations in Person Re-Identification
-    authors: 
-      - Yu-Jhe Li
-      - Zhengyi Luo
-      - Xinshuo Weng 
-      - Kris M. Kitani
-    venue: Arxiv, 2020
-    comments: 
-    video_url: 
-    page_url: 
-    paper_url: https://arxiv.org/abs/2003.07340
-    github_url: 
-    image: projects/reid.gif
-
+  
 publications:
+    - title: Kinematics-Guided Reinforcement Learning for Object-Aware 3D Ego-Pose Estimation
+      authors: 
+        - Zhengyi Luo*
+        - Ryo hachiuma*
+        - Ye Yuan
+        - Shun Iwase
+        - Kris M. Kitani
+      venue: In submission, 2020
+      comments: 
+      video_url: 
+      page_url: /projects/contextegopose
+      paper_url: 
+      github_url: 
+      comments: "* indicates equal contribution"
+      image: projects/contextegopose.gif
     - title: "3D Human Motion Estimation via Motion Compression and Refinement"
       authors: 
         - Zhengyi Luo
@@ -41,6 +28,19 @@ publications:
       paper_url: https://arxiv.org/abs/2008.03789
       github_url: https://github.com/ZhengyiLuo/MEVA
       image: projects/meva.gif
+    - title: Learning Shape Representations for Clothing Variations in Person Re-Identification
+      authors: 
+        - Yu-Jhe Li
+        - Zhengyi Luo
+        - Xinshuo Weng 
+        - Kris M. Kitani
+      venue: Arxiv, 2020
+      comments: 
+      video_url: 
+      page_url: 
+      paper_url: https://arxiv.org/abs/2003.07340
+      github_url: 
+      image: projects/reid.gif
 
     - title: Cross-Domain 3D Equivariant Image Embeddings
       authors: 

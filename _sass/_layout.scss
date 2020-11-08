@@ -118,8 +118,8 @@ body.sticky-bottom-footer {
         object-fit: cover;
         height: auto; 
         width: auto; 
-        max-width: 120px; 
-        max-height: 120px;
+        max-width: 80px; 
+        max-height: 80px;
         margin-right: 20px;
     }
     ul.item-info {
@@ -150,6 +150,14 @@ body.sticky-bottom-footer {
         height: 100px;
         width: 100px;
         margin-right: 10px;
+}
+
+.company-icon{
+    border-radius: 20%;
+    object-fit: cover;
+    height: 50px;
+    width: 50px;
+    margin-right: 0px;
 }
 
 .content {
