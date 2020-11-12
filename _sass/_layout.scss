@@ -28,11 +28,12 @@ body.sticky-bottom-footer {
     }
 }
 
+
 /******************************************************************************
  * Projects
  ******************************************************************************/
 
- .logo {
+.logo {
     float: left;
     margin-right: 20px;
     padding-bottom: 15px;
@@ -64,9 +65,9 @@ body.sticky-bottom-footer {
     img {
         float: left;
         object-fit: cover;
-        height: auto; 
-        width: auto; 
-        max-width: 200px; 
+        height: auto;
+        width: auto;
+        max-width: 200px;
         max-height: 150px;
         // height: 150px;
         // width: 200px;
@@ -97,13 +98,10 @@ body.sticky-bottom-footer {
 //     @extend .paper-entry;
 //     width: 50%;
 // }
-
 // .paper-entry-three-col {
 //     @extend .paper-entry;
 //     width: 33%;
 // }
-
- 
 .list-entry {
     margin-top: 15px;
     display: block;
@@ -116,9 +114,9 @@ body.sticky-bottom-footer {
     img {
         float: left;
         object-fit: cover;
-        height: auto; 
-        width: auto; 
-        max-width: 80px; 
+        height: auto;
+        width: auto;
+        max-width: 80px;
         max-height: 80px;
         margin-right: 20px;
     }
@@ -143,20 +141,20 @@ body.sticky-bottom-footer {
     }
 }
 
-.school-icon{
-        border-radius: 20%;
-        float: left;
-        object-fit: cover;
-        height: 100px;
-        width: 100px;
-        margin-right: 10px;
+.school-icon {
+    border-radius: 20%;
+    float: left;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
 }
 
-.company-icon{
+.company-icon {
     border-radius: 20%;
     object-fit: cover;
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     margin-right: 0px;
 }
 

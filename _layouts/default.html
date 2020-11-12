@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 
-  <head>
-    {% include head.html %}
-  </head>
+<head>
+    {% include head.html %} 
+    {% seo %}
+</head>
 
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+<body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
 
     <!-- Header -->
 
@@ -14,15 +15,15 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      {{ content }}
+        {{ content }}
     </div>
 
     <!-- Footer -->
 
     {% include footer.html %}
 
-  </body>
+</body>
 
-  {% include hemline.html %}
+{% include hemline.html %}
 
 </html>
