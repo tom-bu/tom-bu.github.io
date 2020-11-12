@@ -79,7 +79,7 @@ publications:
         - Stephen Lane
       venue: The Eleventh International Conference on Machine Vision (ICMV), 2018
       comments: 
-      page_url: 
+      page_url: https://zhengyiluo.github.io/projects/cloudchaser/
       paper_url: https://arxiv.org/abs/1810.01069
       github_url: https://github.com/ZhengyiLuo/Cloud-Chaser
       image: projects/chase.jpg
