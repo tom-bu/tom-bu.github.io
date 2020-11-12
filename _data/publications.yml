@@ -12,7 +12,7 @@ publications:
       comments: 
       video_url: 
       page_url: /projects/contextegopose
-      paper_url: 
+      paper_url: https://arxiv.org/abs/2011.04837
       github_url: 
       comments: "* indicates equal contribution"
       image: projects/contextegopose.gif
