@@ -27,6 +27,22 @@ type: research
 </p>
 
 <br>
+
+<h3 style="color:darkblue">Talk</h3>
+
+<div class="embed-container">
+<center>
+  <iframe
+      src="https://www.youtube.com/embed/-TN3NRpCEc0"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+  </center>
+</div>
+
+
 <h3 style="color:darkblue">Demo</h3>
 
 <div class="embed-container">
@@ -40,6 +56,11 @@ type: research
   </iframe>
   </center>
 </div>
+
+
+
+
+
 
 
 <br>
