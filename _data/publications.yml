@@ -55,7 +55,18 @@ publications:
       paper_url: https://arxiv.org/abs/1812.02716
       github_url: 
       image: projects/sphere.png
-
+    - title: "Cloud Chaser: Real Time Deep Learning Computer Vision on Low Computing Power Devices"
+      authors: 
+        - Zhengyi Luo 
+        - Austin Small
+        - Liam Dugan
+        - Stephen Lane
+      venue: The Eleventh International Conference on Machine Vision (ICMV), 2018
+      comments: 
+      page_url: https://zhengyiluo.github.io/projects/cloudchaser/
+      paper_url: https://arxiv.org/abs/1810.01069
+      github_url: https://github.com/ZhengyiLuo/Cloud-Chaser
+      image: projects/chase.jpg
     - title: "The rural–urban stress divide: Obtaining geographical insights through Twitter"
       authors: 
         - Kokil Jaidka
@@ -71,18 +82,7 @@ publications:
       # github_url: https://github.com/ZhengyiLuo/Cloud-Chaser
       image: projects/tweet.png
 
-    - title: "Cloud Chaser: Real Time Deep Learning Computer Vision on Low Computing Power Devices"
-      authors: 
-        - Zhengyi Luo 
-        - Austin Small
-        - Liam Dugan
-        - Stephen Lane
-      venue: The Eleventh International Conference on Machine Vision (ICMV), 2018
-      comments: 
-      page_url: https://zhengyiluo.github.io/projects/cloudchaser/
-      paper_url: https://arxiv.org/abs/1810.01069
-      github_url: https://github.com/ZhengyiLuo/Cloud-Chaser
-      image: projects/chase.jpg
+    
     - title: "Visual Analytics Approach to Vessel Behaviour Analysis"
       authors: 
         - Liang Jin*
