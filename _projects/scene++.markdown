@@ -24,7 +24,6 @@ type: class
 
 </p>
 
-[This is my Senior Design project for my undergraduate degree at UPenn, which is <b>ranked 3rd on the department-wide senior design competition</b>!]
 
 <h3 style="color:darkblue">Presentation</h3>
 <div class="embed-container">
@@ -41,3 +40,4 @@ type: class
 
 
 
+[This is my Senior Design project for my undergraduate degree at UPenn, which is <b>ranked 3rd on the department-wide senior design competition</b>!]
