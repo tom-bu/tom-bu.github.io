@@ -77,7 +77,7 @@ publications:
         - Lyle H Ungar
       venue: "Computers in Human Behavior, 2020: 106544"
       comments: 
-      page_url: 
+      page_url: http://zhengyiluo.github.io/projects/stress_twitter/
       paper_url: https://www.sciencedirect.com/science/article/pii/S0747563220302958
       # github_url: https://github.com/ZhengyiLuo/Cloud-Chaser
       image: projects/tweet.png
