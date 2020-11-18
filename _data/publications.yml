@@ -10,10 +10,10 @@ publications:
         - Kris M. Kitani
       venue: In submission, 2020
       comments: 
-      video_url: 
+      video_url: https://www.youtube.com/watch?v=QAK9jTUHRQU
       page_url: /projects/contextegopose
       paper_url: https://arxiv.org/abs/2011.04837
-      github_url: 
+      github_url: https://github.com/ZhengyiLuo/ContextEgoPose
       comments: "* indicates equal contribution"
       image: projects/contextegopose.gif
     - title: "3D Human Motion Estimation via Motion Compression and Refinement"
