@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Part-based Pose
+title: Parts-based Pose
 description: "Parts-based 3D Object Pose Estimation"
 img: /assets/img/projects/parts/parts.png
 importance: 2
