@@ -26,7 +26,7 @@ type: class
 
 </p>
 
-[This is my final project for 16-811: Math Fundamentals for Robotics at CMU]
+[This is my final project for 16-720: Computer Vision at CMU]
 
 
 
