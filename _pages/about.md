@@ -20,9 +20,7 @@ Hi there! My name is Zhengyi Luo (my friends call me Zen) and I am a second year
 
 My research interest stems from my love for AR/VR, and lies at the intersection of computer vision, machine learning, and robotics. Currently, I am working on topcis including human pose estimation, human-object interaction estimation, human motion generation etc. Through my research, I want to create methods that effectively interpret spatial-temporal sensory input and build a compositional representation of the 3D world to reason about the interactions between agents and the physical environment. 
 
-I am applying for Ph.D. for Fall 2021! Here is a <a style="color:DodgerBlue" href="https://youtu.be/GAfm8vu46nQ">5-minutes introduction video </a> where I summarize my reserach work and interests. 
-
-If you find my profile interesting, you can leave your email here: <a style="color:DodgerBlue" href="https://forms.gle/5kCgzrNSBZSbufPr7">link</a> and I can reach out to you or feel free to reach out to me at zluo2 [at] cs.cmu.edu!
+I am applying for Ph.D. for Fall 2021! Here is a <a style="color:DodgerBlue" href="https://youtu.be/GAfm8vu46nQ">5-minutes introduction video </a> where I summarize my reserach work and interests! If you find my profile interesting, you can leave your email here: <a style="color:DodgerBlue" href="https://forms.gle/5kCgzrNSBZSbufPr7">link</a> and I can reach out to you or feel free to reach out to me at zluo2 [at] cs.cmu.edu!
 
 <div >
 
