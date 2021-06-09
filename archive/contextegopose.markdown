@@ -10,7 +10,7 @@ type: research
 
 <h3 style="text-align: center;font-size:30px"> Kinematics-Guided Reinforcement Learning for Object-Aware 3D Ego-Pose Estimation </h3>
 <h4 style="text-align: center;color:DodgerBlue"> Zhengyi Luo, Ryo Hachiuma, Ye Yuan, Shun Iwase, Kris M. Kitani  </h4>
-<h5 style="text-align: center;"> Arxiv 2020 </h5>
+<h5 style="text-align: center;"> arxiv 2020 </h5>
 
 
 <div class="row">
