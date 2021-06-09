@@ -14,6 +14,21 @@ publications:
       paper_url: https://arxiv.org/abs/2011.04837
       github_url: https://github.com/ZhengyiLuo/ContextEgoPose
       image: projects/contextegopose.gif
+    - title: Kinematics-Guided Reinforcement Learning for Object-Aware 3D Ego-Pose Estimation
+      authors: 
+        - Zhengyi Luo*
+        - Ryo hachiuma*
+        - Ye Yuan
+        - Shun Iwase
+        - Kris M. Kitani
+      venue: Arxiv, 2020
+      comments: 
+      video_url: https://www.youtube.com/watch?v=QAK9jTUHRQU
+      page_url: /projects/contextegopose
+      paper_url: https://arxiv.org/abs/2011.04837
+      github_url: https://github.com/ZhengyiLuo/ContextEgoPose
+      comments: "* indicates equal contribution"
+      image: projects/contextegopose.gif
     - title: "3D Human Motion Estimation via Motion Compression and Refinement"
       authors: 
         - Zhengyi Luo

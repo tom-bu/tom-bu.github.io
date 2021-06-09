@@ -3,7 +3,7 @@ layout: page
 title: ContextEgoPose
 description: Kinematics-Guided Reinforcement Learning for Object-Aware 3D Ego-Pose Estimation
 img: /assets/img/projects/contextegopose.gif
-importance: 2
+importance: 1
 type: research
 ---
 
@@ -46,11 +46,6 @@ We devise several representational innovations through the design of the state a
   </iframe>
   </center>
 </div>
-
-
-
-
-
 
 <br>
 <br>
