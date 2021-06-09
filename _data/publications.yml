@@ -1,7 +1,7 @@
 pre_prints:
   
 publications:
-     - title: Kinematics-Guided Reinforcement Learning for Object-Aware 3D Ego-Pose Estimation
+    - title: Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation
       authors: 
         - Zhengyi Luo*
         - Ryo hachiuma
