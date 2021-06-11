@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ContextEgoPose
+title: Kin_poly
 description: Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation
 img: /assets/img/projects/kin_poly/teaser.gif
 importance: 1

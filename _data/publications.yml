@@ -11,7 +11,7 @@ publications:
       comments: 
       video_url: https://youtu.be/yEiK9K1N-zw
       page_url: /projects/kin_poly
-      paper_url: https://arxiv.org/abs/2011.04837
+      paper_url: https://arxiv.org/abs/2106.05969v1
       github_url: https://github.com/KlabCMU/kin-poly
       image: projects/kin_poly/teaser.gif
     - title: "3D Human Motion Estimation via Motion Compression and Refinement"
