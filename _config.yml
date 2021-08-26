@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zhengyi (Zen) Luo
-email: zluo2@cs.cmu.edu
+title: Tom Bu
+email: tomb@cs.cmu.edu
 description: > # this means to ignore newlines until "url:"
-  Hi! My name is Zhengyi (Zen) Luo and I am currently a second-year research master's student at CMU! Welcome to my website! 
+  Hi! My name is Tom Bu and I am currently a second-year research master's student at CMU! Welcome to my website! 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -36,9 +36,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: Zhengyiluo # your GitHub user name
-twitter_username: zhengyiluo # your Twitter handle
-linkedin_username: zhengyi-zen-luo-726156105 # your LinkedIn user name
+github_username: tom-bu # your GitHub user name
+twitter_username: bu_vision # your Twitter handle
+linkedin_username: tom-bu # your LinkedIn user name
 scholar_userid: lHPTxGsAAAAJ# your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -48,7 +48,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  Email: zluo2@cs.cmu.edu
+  Email: tomb@cs.cmu.edu
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 

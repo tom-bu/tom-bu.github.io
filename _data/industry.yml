@@ -1,20 +1,21 @@
 internships:
-  - title: 3D Software Engineer
-    company: Apple Inc
-    team: Technology Development Group, Applied Research For Reality Composer
-    time: May 2019-Aug 2019
-    image: jobs/apple.png
-    comment: 
-  - title: 3D Software Engineer
-    company: Apple Inc
-    team: Technology Development Group, Applied Research For Reality Composer
-    time: May 2018-Aug 2018
-    image: jobs/apple.png
+  - title: Parallel Co-Op Engineering Intern
+    company: Caterpillar Inc
+    team: Pittsburgh Automation Center
+    time: Jan 2021-Present
+    image: jobs/caterpillar.png
     comment: 
 
-  - title: Software Engineer
-    company: Benteley System
-    team: Strategic Advancement Group
-    time: May 2017-Aug 2017
-    image: jobs/benteley.png
+  - title: Data Scientist
+    company: Cognistx
+    team: 
+    time: Jun 2018-Aug 2020
+    image: jobs/cognistx.png
+    comment: 
+
+  - title: Software Engineering Intern
+    company: Segway Ninebot
+    team: Segway Robotics
+    time: September 2017-March 2018
+    image: jobs/segway.png
     comment: 

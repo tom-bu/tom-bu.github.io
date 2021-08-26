@@ -6,9 +6,9 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: zen_grad2.jpg
+  image: profile.jpg
   address: >
-    <p>Pittsburgh PA, 15213</p>
+    <p>Pittsburgh PA, 15224</p>
 
 news: true
 social: true
@@ -16,29 +16,20 @@ social: true
 
 
 
-Hi there! My name is Zhengyi Luo (my friends call me Zen) and I am a second year reserach master's student at Carnegie Mellon University's Robotics Institute, School of Computer Science, advised by Prof. <a style="color:DodgerBlue" href="http://www.cs.cmu.edu/~kkitani/"><u>Kris Kitani</u></a>. I earned my bachelor's degree from University of Pennsylvania in 2019, where I worked with Prof. <a style="color:DodgerBlue" href="https://www.cis.upenn.edu/~kostas/"><u>Kostas Daniilidis</u></a>.
+I am a second year student at the Robotics Institute in the School of Computer Science at <a style="color:DodgerBlue" href="https://www.cmu.edu/"><u>Carnegie Mellon University</u></a>. I am co-advised by Prof. <a style="color:DodgerBlue" href="https://www.ri.cmu.edu/ri-faculty/john-m-dolan/"><u>John Dolan</u></a> and <a style="color:DodgerBlue" href="https://www.ri.cmu.edu/ri-people/christoph-mertz/"><u>Christoph Mertz</u></a>. I earned my bachelor's degree from Yale University in 2017.
 
-My research interest lies at the intersection of computer vision, machine learning, and robotics. I am working on topcis including human pose estimation, human-object interaction estimation, human motion generation etc. Through my research, I want to create methods that effectively interpret spatial-temporal sensory input and build a compositional representation of the 3D world to reason about the interactions between agents and the physical environment. On the application side, I am excited about building systems that would be useful as assistive robots, autonomous vehicles, and AR/VR virtual assistants.
+My research interest lies at the intersection of computer vision, machine learning, and robotics. I am working on topcis including domain adaptation, perception for autonomous vehicles, and geometry-based vision. Through my research, I want to create methods that have temporal understanding, stable interpretations of our dynamic world, and integrate over long time spans. 
 
-<!-- I am applying for Ph.D. for Fall 2021! If you find my profile interesting, you can leave your email here: <a style="color:DodgerBlue" href="https://forms.gle/5kCgzrNSBZSbufPr7">link</a> and I can reach out to you or feel free to reach out to me at zluo2 [at] cs.cmu.edu! -->
-I will (re)join Robotics Institute as a Phd Student Fall 2021!
+I am applying for Ph.D. for Fall 2022! If you find my profile interesting, you can leave your email here: <a style="color:DodgerBlue" href="https://docs.google.com/forms/d/e/1FAIpQLSc0pNwXSe3i70Q1oWu-_vAa30MI-Suf5x1ZQLZxOzysotlxWw/viewform?usp=sf_link">link</a> and I can reach out to you or feel free to reach out to me at tomb [at] cs.cmu.edu!
 
 <div >
 
 
-<a style="color:DodgerBlue" href="mailto:zluo2@cs.cmu.edu">Email</a>
+<a style="color:DodgerBlue" href="mailto:tomb@cs.cmu.edu">Email</a>
 /
-<a style="color:DodgerBlue" href="assets/pdf/Zhengyi_Luo_CV.pdf">CV</a>
+<a  style="color:DodgerBlue" href="https://github.com/tom-bu">Github</a>
 /
-<a  style="color:DodgerBlue" href="https://scholar.google.com/citations?user=lHPTxGsAAAAJ&hl=en">Google Scholar</a>
+<a  style="color:DodgerBlue" href="https://www.linkedin.com/in/tom-bu">Linkedin</a>
 /
-<a  style="color:DodgerBlue" href="https://github.com/ZhengyiLuo">Github</a>
-/
-<a  style="color:DodgerBlue" href="https://www.linkedin.com/in/zhengyi-zen-luo-726156105/">Linkedin</a>
-/
-<a  style="color:DodgerBlue" href="https://twitter.com/zhengyiluo?lang=en">Twitter</a>
-/
-<a  style="color:DodgerBlue" href="https://m.facebook.com/public/Zen-Zhengyi-Luo">Facebook</a>
-
 
 </div>
