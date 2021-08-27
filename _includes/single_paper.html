@@ -8,7 +8,7 @@
         {% assign num_authors = (paper.authors | size) | minus: 2 %}
         {% for idx in (0..num_authors)%}
         {%assign author = paper.authors[idx] %}
-        {% if author == "Zhengyi Luo" or author == "Zhengyi Luo*" %}
+        {% if author == "Tom Bu" or author == "Tom Bu*" %}
             <u><i><b>{{ author }}</b></i></u>, 
         {% else %}
             {{ author }},
@@ -21,7 +21,7 @@
         <li><i>{{ paper.comments }}</i></li>
         <li>
         {%if paper.video_url%}
-            <a style="color:blue" href="{{ paper.video_url }}">[Video]</a>
+            <a style="color:blue" href="{{ paper.video_url }}">[Talk]</a>
         {% endif %}
         {%if paper.paper_url%}
             <a style="color:blue" href="{{ paper.paper_url }}">[Paper]</a>
@@ -31,6 +31,15 @@
         {% endif %}
         {%if paper.github_url%}
             <a style="color:blue" href="{{ paper.github_url }}">[Code]</a>
+        {% endif %}
+        {%if paper.slides_url%}
+            <a style="color:blue" href="{{ paper.slides_url }}">[Slides]</a>
+        {% endif %}
+        {%if paper.poster_url%}
+            <a style="color:blue" href="{{ paper.poster_url }}">[Poster]</a>
+        {% endif %}
+        {%if paper.bib_url%}
+            <a style="color:blue" href="{{ paper.bib_url }}">[Bibtex]</a>
         {% endif %}
         </li>
     </ul>

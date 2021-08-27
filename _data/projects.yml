@@ -1,20 +1,33 @@
 pre_prints:
   
 publications:
-    - title: CARLA Simulated Data for Rare Road Object Detection
+    - title: Dunhuang Image Restoration Using Attention Residual U-Net
       authors: 
-        - Tom Bu*
-        - Xinhe Zhang*
-        - Christoph Mertz
-        - John Dolan
-      venue: Intelligent Transportation Systems Conference (ITSC), 2021
-      comments: "* indicates equal contribution"
-      video_url: https://drive.google.com/file/d/1y52AkKAhnzlE4GFrEMlANA3ibgwSmEjO/view?usp=sharing
+        - Tom Bu
+      venue: International Conference on Computer Vision (ICCV) Workshop, 2019 
+      comments: "2nd place solution in the Dunhuang Image Restoration Challenge. Invited talk at the e-Heritage workshop"
+      video_url: 
       page_url: 
-      paper_url: https://drive.google.com/file/d/13Cx4GzYNvuB1zfYWiuN_CbC1NFGL3uWc/view?usp=sharing
-      github_url: https://github.com/xinhez/simulation-for-detection
-      image: projects/ITSC.jpeg
-      bib_url: https://drive.google.com/file/d/11jIKlSyArYCb7YeCowkONt7cZKfkAxPr/view?usp=sharing
+      slides_url: https://drive.google.com/file/d/1-lNyut9gi-JvVbgvk9WZ-x6I5-yKnuUe/view
+      paper_url: 
+      github_url:
+      image: projects/dunhuang.png
+      bib_url: 
+
+    - title: Conditional Generator Using Nearest Neighbor Pseudo-labelled Segmentation
+      authors: 
+        - Tom Bu
+      venue: International Conference on Computer Vision (ICCV) Workshop, 2019 
+      comments: "3rd place solution in the OpenEDS Eye Generation Challenge. Invited poster presentation at the Eye Tracking for VR and AR workshop"
+      video_url: 
+      page_url: 
+      slides_url: 
+      poster_url: https://drive.google.com/drive/u/2/folders/18CsPALrwM77S0wv-bAFAYS-mx9Q_hTV2
+      paper_url: 
+      github_url:
+      image: projects/EyeGeneration.png
+      bib_url: 
+
     # - title: "3D Human Motion Estimation via Motion Compression and Refinement"
     #   authors: 
     #     - Zhengyi Luo

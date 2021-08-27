@@ -23,6 +23,21 @@ bundle exec jekyll serve
 ```
 
 
+# add a new publication
+_data/publications.yml
+assets/img/projects/EyeGeneration.png
+
+# to add a new section
+Write something here
+layouts/about.html
+    <!-- <hr> -->
+    <!-- {% include teaching.html %} -->
+Add the structure in _includes
+
+
+# to add a new link
+data/publications.yaml
+single_paper.html
 
 
 
