@@ -30,6 +30,5 @@ I am applying for Ph.D. for Fall 2022! If you find my profile interesting, you c
 <a  style="color:DodgerBlue" href="https://github.com/tom-bu">Github</a>
 /
 <a  style="color:DodgerBlue" href="https://www.linkedin.com/in/tom-bu">Linkedin</a>
-/
 
 </div>

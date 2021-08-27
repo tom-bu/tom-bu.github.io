@@ -4,7 +4,7 @@ layout: default
 <!-- <a style="font-size:30px">[Page still under construction]</a> -->
 <div class="post">
 
-  <header class="post-header">
+  <header style="font-size:30px">
     {% assign name = site.title | split: ' ' %}
     {% assign firstname = name | first %}
     {% if name.size > 2 %}
@@ -13,9 +13,7 @@ layout: default
        {% assign middlenames = '' %}
     {% endif %}
     {% assign lastname = name | last %}
-    <a style="font-size:30px" class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
      <span class="font-weight-bold">{{ firstname }}{{ middlenames }}  {{ lastname }}</span> 
-    </a>
   </header>
 
   <article>
