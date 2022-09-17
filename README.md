@@ -1,4 +1,9 @@
 # Tom's personal Page.
+
+# add a new publication
+_data/publications.yml
+assets/img/projects/EyeGeneration.png
+
 # edit the following
 - assets/img
 - assets/pdf
@@ -19,13 +24,9 @@
 
 Run 
 ```
+cd tombu.github.io/
 bundle exec jekyll serve
 ```
-
-
-# add a new publication
-_data/publications.yml
-assets/img/projects/EyeGeneration.png
 
 # to add a new section
 Write something here

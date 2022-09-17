@@ -20,7 +20,7 @@ I am a second year student at the Robotics Institute in the School of Computer S
 
 My research interest lies at the intersection of computer vision, machine learning, and robotics. I am working on topcis including domain adaptation, perception for autonomous vehicles, and geometry-based vision. Through my research, I want to create methods that have 3D spatial understanding, stable scene recognition, and the capacity to provide intelligent insights to our dynamic world. 
 
-I am applying for Ph.D. for Fall 2022! If you find my profile interesting, you can leave your email here: <a style="color:DodgerBlue" href="https://docs.google.com/forms/d/e/1FAIpQLSc0pNwXSe3i70Q1oWu-_vAa30MI-Suf5x1ZQLZxOzysotlxWw/viewform?usp=sf_link">link</a> and I can reach out to you or feel free to reach out to me at tomb [at] cs.cmu.edu!
+<!-- I am applying for Ph.D. for Fall 2022! If you find my profile interesting, you can leave your email here: <a style="color:DodgerBlue" href="https://docs.google.com/forms/d/e/1FAIpQLSc0pNwXSe3i70Q1oWu-_vAa30MI-Suf5x1ZQLZxOzysotlxWw/viewform?usp=sf_link">link</a> and I can reach out to you or feel free to reach out to me at tomb [at] cs.cmu.edu! -->
 
 <div >
 

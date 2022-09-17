@@ -1,6 +1,18 @@
 pre_prints:
   
 publications:
+    - title: Toward HD Map Change Updates With Crosswalk Change Detection From Vehicle-Mounted Cameras
+      authors: 
+        - Tom Bu
+        - Christoph Mertz
+        - John Dolan
+      venue: Master's Thesis 
+      poster_url: https://drive.google.com/file/d/1RbHi3-vaC0dV-I49Y69Mcb7rvOfJSl_N/view?usp=sharing
+      paper_url: https://drive.google.com/file/d/1Ic7p52AYx7kbkeKm0udC60WF4P2UXTA0/view?usp=sharing
+      image: projects/crosswalk_change.png
+      bib_url: https://drive.google.com/file/d/1SP-ejZLtDmfonkbNETWZTgZcr16RNUm6/view?usp=sharing
+
+
     - title: CARLA Simulated Data for Rare Road Object Detection
       authors: 
         - Tom Bu*

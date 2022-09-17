@@ -1,8 +1,15 @@
 internships:
+  - title: Software Engineer Intern
+    company: Argo AI
+    team: Map Algorithms & Localization
+    time: May 2022 - September 2022
+    image: jobs/argo.png
+    comment: 
+
   - title: Parallel Co-Op Engineering Intern
     company: Caterpillar Inc
     team: Pittsburgh Automation Center
-    time: Jan 2021-Present
+    time: Jan 2021-Jan 2022
     image: jobs/caterpillar.png
     comment: 
 
