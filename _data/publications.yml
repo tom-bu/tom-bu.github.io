@@ -1,12 +1,23 @@
 pre_prints:
   
 publications:
+    - title: Toward Map Updates With Crosswalk Change Detection Using a Monocular Bus Camera
+      authors: 
+        - Tom Bu
+        - Christoph Mertz
+        - John Dolan
+      venue: Intelligent Vehicle Symposium (IV), 2023
+      image: projects/buscam.png
+      github_url: https://github.com/tom-bu/BusCamCrosswalkChangeDetection
+      page_url: https://tom-bu.github.io/BusCamCrosswalkCD/
+
+
     - title: Toward HD Map Updates With Crosswalk Change Detection From Vehicle-Mounted Cameras
       authors: 
         - Tom Bu
         - Christoph Mertz
         - John Dolan
-      venue: Master's Thesis 
+      venue: Master's Thesis, 2022 
       poster_url: https://drive.google.com/file/d/1RbHi3-vaC0dV-I49Y69Mcb7rvOfJSl_N/view?usp=sharing
       paper_url: https://drive.google.com/file/d/1Ic7p52AYx7kbkeKm0udC60WF4P2UXTA0/view?usp=sharing
       image: projects/crosswalk_change.png
