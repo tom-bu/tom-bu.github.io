@@ -8,15 +8,17 @@ profile:
   align: right
   image: profile.jpg
   address: >
-    <p>B520 Newell-Simon Hall</p>
+    <p>San Jose, CA</p>
 
 news: true
 social: true
 ---
 
+I am currently an associate researcher in the <a style="color:DodgerBlue" href="https://www.nec-labs.com/research/media-analytics/home/"><u>Media Analytics</u></a> team headed by Prof. <a style="color:DodgerBlue" href="https://cseweb.ucsd.edu/~mkchandraker/"><u>Manmohan Chandraker</u></a> at NEC Laboratories America. I work on 3D Computer Vision related to Assisted and Autonomous Driving. 
 
 
-I am a second year student at the Robotics Institute in the School of Computer Science at <a style="color:DodgerBlue" href="https://www.cmu.edu/"><u>Carnegie Mellon University</u></a>. I am co-advised by Prof. <a style="color:DodgerBlue" href="https://www.ri.cmu.edu/ri-faculty/john-m-dolan/"><u>John Dolan</u></a> and <a style="color:DodgerBlue" href="https://www.ri.cmu.edu/ri-people/christoph-mertz/"><u>Christoph Mertz</u></a>. I earned my bachelor's degree from Yale University in 2017.
+
+I graduated from the Robotics Institute in the School of Computer Science at <a style="color:DodgerBlue" href="https://www.cmu.edu/"><u>Carnegie Mellon University</u></a>. I was co-advised by Prof. <a style="color:DodgerBlue" href="https://www.ri.cmu.edu/ri-faculty/john-m-dolan/"><u>John Dolan</u></a> and <a style="color:DodgerBlue" href="https://www.ri.cmu.edu/ri-people/christoph-mertz/"><u>Christoph Mertz</u></a>. I earned my bachelor's degree in the School of Engineering and Applied Sciences from Yale University in 2017.
 
 My research interest lies at the intersection of computer vision, machine learning, and robotics. I am working on topcis including domain adaptation, perception for autonomous vehicles, and geometry-based vision. Through my research, I want to create methods that have 3D spatial understanding, stable scene recognition, and the capacity to provide intelligent insights to our dynamic world. 
 
@@ -30,5 +32,7 @@ My research interest lies at the intersection of computer vision, machine learni
 <a  style="color:DodgerBlue" href="https://github.com/tom-bu">Github</a>
 /
 <a  style="color:DodgerBlue" href="https://www.linkedin.com/in/tom-bu">Linkedin</a>
+/
+<a  style="color:DodgerBlue" href="https://scholar.google.com/citations?user=2dm9EuoAAAAJ&hl=en&authuser=4">Google Scholar</a>
 
 </div>

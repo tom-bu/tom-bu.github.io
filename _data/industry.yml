@@ -1,4 +1,11 @@
 internships:
+  - title: Assocate Researcher
+    company: NEC Labs America
+    team: Media Analytics
+    time: Jan 2023-Present
+    image: jobs/nec.png
+    comment: 
+
   - title: Software Engineer Intern
     company: Argo AI
     team: Map Algorithms & Localization

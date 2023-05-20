@@ -7,6 +7,7 @@ publications:
         - Christoph Mertz
         - John Dolan
       venue: Intelligent Vehicle Symposium (IV), 2023
+      comments: Oral Presentation
       image: projects/buscam.png
       github_url: https://github.com/tom-bu/BusCamCrosswalkChangeDetection
       page_url: https://tom-bu.github.io/BusCamCrosswalkCD/
@@ -31,7 +32,7 @@ publications:
         - Christoph Mertz
         - John Dolan
       venue: Intelligent Transportation Systems Conference (ITSC), 2021
-      comments: "* indicates equal contribution"
+      comments: Oral Presentation. * indicates equal contribution
       video_url: https://drive.google.com/file/d/1y52AkKAhnzlE4GFrEMlANA3ibgwSmEjO/view?usp=sharing
       page_url: 
       poster_url: https://drive.google.com/file/d/1WbFCDtB-5D8pvN1gfA0SKzNXQL6WjLmB/view?usp=sharing
