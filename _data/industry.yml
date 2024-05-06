@@ -1,28 +1,28 @@
 internships:
-  - title: 
-    company: NEC Labs America
-    team: Media Analytics
+  - title: NEC Labs America-Media Analytics
+    company: 
+    team: 
     time: 
     image: jobs/nec.png
     comment: 
 
-  - title: 
-    company: Argo AI
-    team: Map Algorithms & Localization
+  - title: Argo AI-Map Algorithms & Localization
+    company: 
+    team: 
     time: 
     image: jobs/argo.png
     comment: 
 
-  - title: 
-    company: Cognistx
+  - title: Cognistx
+    company: 
     team: 
     time: 
     image: jobs/cognistx.png
     comment: 
 
-  - title: 
-    company: Segway Ninebot
-    team: Segway Robotics
+  - title: Segway Ninebot-Segway Robotics
+    company: 
+    team: 
     time: 
     image: jobs/segway.png
     comment: 
