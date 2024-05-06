@@ -1,35 +1,28 @@
 internships:
-  - title: Assocate Researcher
+  - title: 
     company: NEC Labs America
     team: Media Analytics
-    time: Jan 2023-Present
+    time: 
     image: jobs/nec.png
     comment: 
 
-  - title: Software Engineer Intern
+  - title: 
     company: Argo AI
     team: Map Algorithms & Localization
-    time: May 2022 - September 2022
+    time: 
     image: jobs/argo.png
     comment: 
 
-  - title: Parallel Co-Op Engineering Intern
-    company: Caterpillar Inc
-    team: Pittsburgh Automation Center
-    time: Jan 2021-Jan 2022
-    image: jobs/caterpillar.png
-    comment: 
-
-  - title: Data Scientist
+  - title: 
     company: Cognistx
     team: 
-    time: Jun 2018-Aug 2020
+    time: 
     image: jobs/cognistx.png
     comment: 
 
-  - title: Software Engineering Intern
+  - title: 
     company: Segway Ninebot
     team: Segway Robotics
-    time: September 2017-March 2018
+    time: 
     image: jobs/segway.png
     comment: 
